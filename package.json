@@ -1,0 +1,19 @@
+{
+  "name": "jwt",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kacao/rn-jwt.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "jsrsasign": "^8.0.12"
+  }
+}
